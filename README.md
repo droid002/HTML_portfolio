@@ -1,2 +1,2 @@
 # HTML_portfolio
-This is my profile creating using HTML
+This is my profile created using HTML
